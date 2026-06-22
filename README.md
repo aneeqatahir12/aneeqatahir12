@@ -41,7 +41,7 @@ I'm on a journey to master AI, Machine Learning, and automation tools, one proje
 - 🌱 Currently learning: Machine Learning, AI Agents & Automation
 - 🔭 Goal: Build real-world AI tools that solve everyday problems
 - 📍 Based in Pakistan 🇵🇰
-- 📫 Reach me on [LinkedIn](https://linkedin.com/in/aneeqatahir12)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aneeqa-tahir-b798b130a)
 
 ---
 
