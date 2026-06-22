@@ -1,16 +1,50 @@
-## Hi there 👋
+# Assalam-o-Alaikum, I'm Aneeqa 👋
 
-<!--
-**aneeqatahir12/aneeqatahir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Machine Learning Enthusiast | Non-CS Background | Learning in Public**
 
-Here are some ideas to get you started:
+I don't come from a Computer Science background — but I believe curiosity beats credentials.
+I'm on a journey to master AI, Machine Learning, and automation tools, one project at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I'm Building
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🍦 [Ice Cream Sales Predictor](https://github.com/aneeqatahir12/ice-cream-sales-ml-model) | My first ML model — predicts revenue from temperature data | Python, Scikit-learn |
+| 🤖 [Mental Health Chatbot](https://github.com/aneeqatahir12/mental-health-chatbot) | A conversational AI for mental wellness support | AI, NLP |
+| 📱 [Social Media Agent](https://github.com/aneeqatahir12/social-media-agent) | Automated caption generator using Make.com | Make.com, AI |
+
+---
+
+## 🧰 Tools & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Make.com](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white)
+
+---
+
+## 📈 My GitHub Stats
+
+![Aneeqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=aneeqatahir12&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aneeqatahir12&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💬 A Bit About Me
+
+- 🎓 Non-CS background — proving that ML is for everyone
+- 🌱 Currently learning: Machine Learning, AI Agents & Automation
+- 🔭 Goal: Build real-world AI tools that solve everyday problems
+- 📍 Based in Pakistan 🇵🇰
+- 📫 Reach me on [LinkedIn](https://linkedin.com/in/aneeqatahir12)
+
+---
+
+> *"The best time to start was yesterday. The second best time is now."*
+
+⭐ **Star my repos if you find them helpful!**
